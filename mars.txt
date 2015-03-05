@@ -1,4 +1,6 @@
 No signs of life . . .
 Not ideal for long term travel
+<<<<<<< HEAD
 Miserably cold at night
 Extra important line
+
